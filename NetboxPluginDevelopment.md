@@ -1,3 +1,7 @@
+Plugin Code Walkthrough:
+
+https://www.youtube.com/watch?v=dtXzdX3FLoA
+
 # NetBox Plugin Development Guide
 
 A detailed beginner's guide of everything you need to know to get started with NetBox and creating a [NetBox](https://netbox.readthedocs.io/en/stable/) plugin. 
