@@ -586,6 +586,15 @@ $ docker ps -a
 
 ## Netbox QR code plugin
 
+Plugin Home Page
 ![Home Page](Images-Netbox/HomePage.png)
 
+On additions to new netbox objects or first installation of the plugin, QR code images will be unloaded which can be seen by empty image thumbnails as shown below. 
+Click the `Reload QR Codes` button in the menu to generate codes for all objects that do not have generated QR codes
 ![UnloadedImages](Images-Netbox/UnloadedImages.png)
+
+Printing Preview View
+![PrintPreview](Images-Netbox/PrintPreview.png)
+
+Preview for Printing QR codes with the `without text` option enabled
+![PrintPreviewWithoutText](Images-Netbox/PrintPreviewWithoutText.png)
